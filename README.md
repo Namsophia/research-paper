@@ -19,7 +19,7 @@ Gestational Diabetes is a public health problem that currently affects a large p
 
 
 ## Conclusion
-In conclusion, the findings of this study point out that the most affected age group was of 25-34 years, overweight and family history of diabetes were found to be risk factors of GD. Women with GD are more likely to deliver macrosomic babies or hypoglycaemic babies and may require surgical intervention in order to have normal deliveries. Based on the results and observations, the prevalence of GD is low and with early detection and treatment the complications associated with GD can be resolved so as to promote healthy maternal and fetal life thereby reducing morbidity and mortality.
+In conclusion, the findings of this study point out that the most affected age group was of 25-34 years, overweight and family history of diabetes were found to be risk factors of GD. Women with GD are more likely to deliver macrosomic babies or hypoglycaemic babies and may require surgical intervention in order to have normal deliveries. Based on the results and observations, the prevalence of GD is low and with early detection and treatment the complications associated with GD can be resolved as to promote healthy maternal and fetal life thereby reducing morbidity and mortality.
 
 ![image](https://user-images.githubusercontent.com/122635788/216960493-2ef9e3d9-1c8f-4a80-8352-aca10d96da28.png)![Affected Age Group of Pregnant Women](https://user-images.githubusercontent.com/122635788/216960758-c193c2d7-f5bd-4689-bb85-ede293a7868e.png)
 
